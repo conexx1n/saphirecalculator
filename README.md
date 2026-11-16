@@ -2,6 +2,12 @@
 
 **Настольный калькулятор и конвертер на Python + PySide6**
 
+
+
+
+<img width="462" height="700" alt="изображение" src="https://github.com/user-attachments/assets/54beaf0b-effc-457f-91d1-c6a1b5dac277" />
+
+
 **Sapphire Calculator** — настольный калькулятор и конвертер на PySide6 с мягким размытым градиентным фоном, полупрозрачными карточками и настраиваемыми цветовыми темами
 
 [English](#english)
