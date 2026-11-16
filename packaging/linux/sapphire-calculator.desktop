@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Sapphire Calculator
+Comment=Modern desktop calculator and unit converter
+Exec=sapphire-calculator
+Icon=sapphire-calculator
+Terminal=false
+Categories=Utility;Calculator;
+StartupNotify=true
